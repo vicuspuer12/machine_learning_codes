@@ -2,7 +2,7 @@
 """
 Created on Sat Mar 12 18:06:35 2022
 
-@author: vicus
+@author: Emmanuel
 """
 "Importing Libraries"
 import numpy as np
